@@ -8,7 +8,7 @@
 </div>
 <img align="left" height="250" alt="coding-time" src="code.gif">
 
-![Snake animation](https://github.com/PauloYuritech/PauloYuritech/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/PauloYuritech/PauloYuritech/blob/output/github-contribution-grid-snake.svg)
 
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
